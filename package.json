@@ -1,0 +1,11 @@
+{
+  "name": "Weight-Conversion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hi5a/Weight-Conversion",
+  "author": "Andrew <48754372+hi5a@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
